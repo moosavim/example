@@ -1,5 +1,6 @@
-
+y = 2
 x = 1
+print(x+y)
 smallest = []
 while x<=10 :
     number = int(input(f' {x}enter a numberb: '))
