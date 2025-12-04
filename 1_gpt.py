@@ -11,3 +11,5 @@ for i in num:
 n_num_neg.reverse()
 n_num_neg.extend(n_num_pos)
 print(n_num_neg)
+
+print(n_num_neg[0:3])
